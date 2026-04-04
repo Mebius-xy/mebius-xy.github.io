@@ -51,7 +51,21 @@ toc: true
 
 # 评论系统（建议先留空，等基础功能跑通后再单独配置 Giscus）
 comments:
-  provider: 
+  active: giscus # 这里填 giscus，告诉主题启用它
+  # 下面是 giscus 的具体配置
+  giscus:
+    repo: 'mebius-xy/mebius-xy.github.io' # 你的仓库名
+    repo_id: 'R_kgDORuVygg'
+    category: 'Announcements'
+    category_id: 'DIC_kwDORuVygs4C6B4Y'
+    mapping: 'pathname'
+    strict: '0'
+    reactions_enabled: '1'
+    emit_metadata: '0'
+    input_position: 'bottom'
+    theme: 'preferred_color_scheme'
+    lang: 'zh-CN'
+    loading: 'lazy'
 
 # 每页显示的文章数量
 paginate: 10
