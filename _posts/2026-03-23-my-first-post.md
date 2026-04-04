@@ -4,6 +4,7 @@ date: 2026-03-23 18:30:00 +0800
 categories: [生活, 技术]
 tags: [jekyll, test]
 description: 这是我使用 Chirpy 主题发布的第一篇文章，测试本地预览和 GitHub 推送功能。
+comments: true  # <--- 必须显式设置为 true，否则 Chirpy 会隐藏评论区
 ---
 
 ## 👋 你好，世界！

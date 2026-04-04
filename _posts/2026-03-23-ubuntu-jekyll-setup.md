@@ -3,6 +3,7 @@ title: Ubuntu 搭建 Jekyll 全记录：从红叉到绿勾
 date: 2026-03-23 08:00:00 +0800
 categories: [技术复盘, Linux]
 tags: [ubuntu, jekyll, git]
+comments: true  # <--- 必须显式设置为 true，否则 Chirpy 会隐藏评论区
 ---
 
 ## 避坑指南
