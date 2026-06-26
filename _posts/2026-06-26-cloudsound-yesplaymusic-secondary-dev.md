@@ -1,7 +1,7 @@
 ---
 title: "CloudSound 二次开发记录：把 YesPlayMusic 改造成更适合展示的桌面端 Web 音乐应用"
 date: 2026-06-26
-categories: [Web开发, Vue, 毕设]
+categories: [Web开发, Vue]
 tags: [Vue2, Electron, 音乐播放器, 开源二开, 前端工程]
 image:
   path: /assets/img/posts/cloudsound/feature-cache-panel.png
